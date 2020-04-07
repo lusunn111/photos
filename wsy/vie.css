@@ -21,7 +21,7 @@
  }
  @media(min-width: 600px){
   .body{
-background:url("https://lxxs.xyz/app/img");
+background:url("https://cdn.jsdelivr.net/gh/mlxxs/photos/backg/195.jpg");
 background-size:cover;
 background-repeat:no-repeat;
 background-attachment: fixed;
@@ -48,7 +48,7 @@ filter: blur(5px);
  
  @media(max-width: 600px){ 
  	.body{
-background:url("https://lxxs.xyz/app/img");
+background:url("https://cdn.jsdelivr.net/gh/mlxxs/photos/backg/195.jpg");
 font-size:20px;
 color:white;
     top: 0;
